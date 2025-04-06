@@ -51,7 +51,7 @@ This application utilizes discrete mathematics concepts:
 
 ## Developers
 
-Developed by Group 6 (UNNES):
+Developed by Group 6 (UNNES - SI 23 R2):
 - Syifa Maulidina (2304140046)
 - Hammam Jitapsara (2304140050)
 - Aisyah Qurrota A'yun (2304140057)
